@@ -15,41 +15,41 @@ Please install Web Essentials for VS 2013 for rending JS file for TS on side by 
 
 https://visualstudiogallery.msdn.microsoft.com/56633663-6799-41d7-9df7-0f2a504ca361
 
-Migrating AngularJS to Typescript
+##Migrating AngularJS to Typescript
 
-Entity class
-
-
-
-Defining Application Modules 
+###Entity class
 
 
 
-Defining Application Startup Functionality
+###Defining Application Modules 
 
 
 
-Defining Application Configuration
+###Defining Application Startup Functionality
 
 
 
-Defining Shared Services
+###Defining Application Configuration
 
 
 
-Defining Module specific services
+###Defining Shared Services
 
 
 
-Defining Module Controller
+###Defining Module specific services
 
 
 
-Defining Directive consists of DOM manipulation logic
+###Defining Module Controller
 
 
 
-Defining Directive consists of business logic
+###Defining Directive consists of DOM manipulation logic
+
+
+
+###Defining Directive consists of business logic
 
 
 
