@@ -1,4 +1,4 @@
-# AngularJSUsingTypeScript
+# AngularJS Using TypeScript
 sample project using Typescript in AngularJS to get in close with ECMA script 6 syntax
 
 AngularJS is a JavaScript Model-View-Whatever (MVW) framework that allows the writing of dynamic Single Page web 
